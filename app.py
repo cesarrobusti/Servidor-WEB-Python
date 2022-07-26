@@ -7,6 +7,6 @@ app = Flask("hello")
 def hello():
     return "Hello world"
 
-@app.route("/meucontato")
-def meuContato ():
+@app.route("/contato")
+def Contato ():
     return render_template('index.html')
