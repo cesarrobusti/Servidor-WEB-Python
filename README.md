@@ -14,3 +14,7 @@ heroku config --app <nome do app>
 ## para atualizar
 
 git push heroku main
+
+## Site de criação
+
+Feito através do gitpod
