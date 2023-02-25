@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn SERVIDOR-WEB-PHYTON.wsgi --log-file -
